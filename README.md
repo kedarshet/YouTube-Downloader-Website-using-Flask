@@ -6,7 +6,7 @@ you need to install following packages to run website
 pip install -r requirements.txt
 ````
 
-##To run Website
+## To run Website
 ````
 python app.py
 ````
