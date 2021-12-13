@@ -3,12 +3,13 @@ YouTube Downloader Website With Flask
 
 you need to install following packages to run website
 ````
-pip install flask
+pip install -r requirements.txt
 ````
+
+##To run Website
 ````
-pip install pytube
+python app.py
 ````
-then run app.py
 Enjoy
 
 
