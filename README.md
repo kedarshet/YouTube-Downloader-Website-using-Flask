@@ -1,12 +1,12 @@
 # YouTube-Downloader-Website-With-Flask
 YouTube Downloader Website With Flask
 
-you need to install following packages to run website
+You need to install following packages to run website
 ````
 pip install -r requirements.txt
 ````
 
-## To run Website
+## To Run Website
 ````
 python app.py
 ````
