@@ -37,7 +37,7 @@ def downloads():
             return render_template('download.html',  url=url)
         except:
             return redirect(url_for('home'))
-#filetitle = url.title, filepath = filepath,
+        
 @app.route('/download/',methods=['GET', 'POST'])
 def download_video():
     try:
